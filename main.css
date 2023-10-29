@@ -1,0 +1,41 @@
+/* This is a CSS comment for my extra notes and better understanding of coding. */
+
+/* Let's use CSS to style the Body tag of amy html page that uses me, or references me */
+body{
+     /* Let's set the background color of the body to a shade of blue */
+     background-color:tan;
+     /* Let's set the font color of the body tag to  */
+     color:teal;
+}
+/* Let's use CSS to style the NAV properties  */
+nav{
+     /* Set the height to 600px */
+     height: 600px;
+     /* Set the width to 200px */
+     width: 200px;
+     /* Set the float to the left */
+     float: left;
+     /* Set the padding to 5px */
+     padding: 5px;
+     /* Set the line-height to 30px */
+     line-height: 30px;
+}
+/* Let's do this without the video to continue editing my page from here on out. */
+/* Let's use CSS to style the footer properties  */
+footer{
+    /* Set the text-align to center */
+    text-align: center;
+    /* Set the margin-right to 200px */
+    margin-right: 200px;
+}
+/* Let's use CSS to style the meme/image properties  */
+img{
+    /* Set the margin-right to 200px */
+    margin-right: 200px;
+}
+/* Let's use CSS to style the header properties  */
+header{
+    /* Set the text-align to center */
+text-align: center;
+}
+/* I would've done more but I need to do more assignments! */
